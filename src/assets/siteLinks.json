@@ -5,29 +5,9 @@
     "link": "https://blog.cxbl.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.cxbl.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.cxbl.top/"
-  },
-  {
     "icon": "Compass",
     "name": "起始页",
     "link": "https://nav.cxbl.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.cxbl.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.cxbl.top/"
   },
   {
     "icon": "LaptopCode",
