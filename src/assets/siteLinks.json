@@ -8,5 +8,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.cxbl.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "IT工具",
+    "link": "https://tools.cxbl.top/"
   }
 ]
